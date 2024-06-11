@@ -1,0 +1,9 @@
+# 是否开启展示框复制（当玩家转动展示框中的物品时有几率被复制）
+EnableItemFrameDupe: true
+# 展示框复制时掉落概率为多少（0.0 ~ 1）
+ItemFrameDupeProbability: 0.25
+
+# 是否开启超级鸽鸽复制
+EnableSuperChickenDupe: true
+# 点击鸽鸽一次掉落几倍物品
+SuperChickenDupeNum: 1

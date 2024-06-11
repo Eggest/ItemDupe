@@ -1,0 +1,11 @@
+name: SuperDupe
+version: '1.0-Releases'
+main: io.github.eggest.itemdupe.ItemDupe
+api-version: '1.12'
+authors: [Eggest6973]
+description: 物品复制大全
+website: https://eggest.github.io
+commands:
+  dupe:
+    usage: /dupe
+    description: Dupe your items in mainhand
